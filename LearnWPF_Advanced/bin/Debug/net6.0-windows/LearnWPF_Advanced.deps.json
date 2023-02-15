@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LearnWPF_Advanced/1.0.0": {
+        "runtime": {
+          "LearnWPF_Advanced.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LearnWPF_Advanced/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
