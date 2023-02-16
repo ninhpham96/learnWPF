@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Admin\Source\Repos\learnWPF\LearnWPF_Advanced\App.xaml
-2-1334038185
+3439236289
 
-51842909130
+62026291327
 1951618854790
-Lesson01\ViewLesson01.xaml;MainWindow.xaml;
+Lesson01\ViewLesson01.xaml;MainWindow.xaml;WpfTreeView\wpfTreeView.xaml;
 
 False
 

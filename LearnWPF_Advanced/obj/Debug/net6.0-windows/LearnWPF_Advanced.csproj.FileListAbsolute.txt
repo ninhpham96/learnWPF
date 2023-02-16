@@ -45,3 +45,5 @@ C:\Users\Admin\Source\Repos\learnWPF\LearnWPF_Advanced\obj\Debug\net6.0-windows\
 C:\Users\Admin\Source\Repos\learnWPF\LearnWPF_Advanced\obj\Debug\net6.0-windows\ref\LearnWPF_Advanced.dll
 C:\Users\Admin\Source\Repos\learnWPF\LearnWPF_Advanced\obj\Debug\net6.0-windows\Lesson01\ViewLesson01.g.cs
 C:\Users\Admin\Source\Repos\learnWPF\LearnWPF_Advanced\obj\Debug\net6.0-windows\Lesson01\ViewLesson01.baml
+C:\Users\Admin\Source\Repos\learnWPF\LearnWPF_Advanced\obj\Debug\net6.0-windows\WpfTreeView\wpfTreeView.g.cs
+C:\Users\Admin\Source\Repos\learnWPF\LearnWPF_Advanced\obj\Debug\net6.0-windows\WpfTreeView\wpfTreeView.baml

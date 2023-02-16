@@ -1,6 +1,7 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using LearnWPF_Advanced.Lesson01;
+using LearnWPF_Advanced.WpfTreeView;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,7 +17,8 @@ namespace LearnWPF_Advanced
     {
         public MainModelView()
         {
-
+            wpfTreeView wpfTree = new wpfTreeView();
+            wpfTree.ShowDialog();
         }
         [RelayCommand]
         private void GotoLesson(Button btn)
