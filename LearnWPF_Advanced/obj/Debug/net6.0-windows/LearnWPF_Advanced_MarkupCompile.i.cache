@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\C#\LearnWPF_Advanced\LearnWPF_Advanced\obj\Debug\net6.0-windows\
+C:\Users\Admin\Source\Repos\learnWPF\LearnWPF_Advanced\obj\Debug\net6.0-windows\
 LearnWPF_Advanced
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\C#\LearnWPF_Advanced\LearnWPF_Advanced\App.xaml
-11407045341
+C:\Users\Admin\Source\Repos\learnWPF\LearnWPF_Advanced\App.xaml
+2-1334038185
 
-61983524344
-194-2004305220
-MainWindow.xaml;
+7-614314893
+1951618854790
+Lesson01\ViewLesson01.xaml;MainWindow.xaml;
 
-True
+False
 

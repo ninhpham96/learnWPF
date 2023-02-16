@@ -24,17 +24,6 @@ namespace LearnWPF_Advanced
             InitializeComponent();
         }
 
-        private void btnApply_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show($"This description is :{tbDescription.Text}");
-        }
-
-        private void btnReset_Click(object sender, RoutedEventArgs e)
-        {
-            ckbWeld.IsChecked = ckbAssembly.IsChecked = ckbPlasma.IsChecked =
-                ckbLaser.IsChecked = ckbPurchase.IsChecked = ckbLathe.IsChecked =
-                ckbDrill.IsChecked = ckbFold.IsChecked = ckbRoll.IsChecked = 
-                ckbSaw.IsChecked = false;
-        }
+        
     }
 }
