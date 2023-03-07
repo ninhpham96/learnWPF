@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Admin\Source\Repos\learnWPF\LearnWPF_Advanced\obj\Debug\net6.0-windows\
+C:\Users\phamn\Source\Repos\learnWPF\LearnWPF_Advanced\obj\Debug\net6.0-windows\
 LearnWPF_Advanced
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\Admin\Source\Repos\learnWPF\LearnWPF_Advanced\App.xaml
+C:\Users\phamn\Source\Repos\learnWPF\LearnWPF_Advanced\App.xaml
 3439236289
 
-8-430932696
-1951618854790
+9-1414698707
+195-2037068537
 Lesson01\ViewLesson01.xaml;MainWindow.xaml;WpfTreeView\wpfTreeView.xaml;
 
-True
+False
 
