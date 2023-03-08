@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3hlUreh6sTXjAupswPGwT2KjutMS+03Fh+hqNdcZ8OJn5CK5lf/szf0k+qUrmsPOnpfwlVzjb473Qs7a30C/9w==",
+  "dgSpecHash": "U4lyzZUUFxhqjJe33mOjWwhbZC11B8dl89YQEoPztnmnEOJzMFRDFAaRsTg4XoBmba3jCDCp/pEXOG0arVMaww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\phamn\\Source\\Repos\\learnWPF\\LearnWPF_Advanced\\LearnWPF_Advanced.csproj",
+  "projectFilePath": "C:\\Users\\phamn\\source\\repos\\learnWPF\\LearnWPF_Advanced\\LearnWPF_Advanced.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phamn\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
   ],

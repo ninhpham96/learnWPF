@@ -3,6 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LearnWPF_Advanced.WpfTreeView"
         mc:Ignorable="d"
         Loaded="Window_Loaded"
         Title="wpfTreeView" Height="350" Width="800">
@@ -14,8 +15,12 @@
                         <Setter.Value>
                             <DataTemplate>
                                 <StackPanel Orientation="Horizontal">
-                                    <Image Width="20" Margin="3" Source="C:\Users\phamn\Source\Repos\learnWPF\LearnWPF_Advanced\Images\folder.png"/>
-                                    <TextBlock Text="{Binding}" VerticalAlignment="Center"/>
+                                    <Image Width="20" Margin="3" 
+                                        Source="{Binding
+                                            RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type TreeViewItem}},
+                                            Path=Tag,
+                                            Converter={x:Static local:HeaderToImageConverter.Instance}}" />
+                                    <TextBlock VerticalAlignment="Center" Text="{Binding}" />
                                 </StackPanel>
                             </DataTemplate>
                         </Setter.Value>

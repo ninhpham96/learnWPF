@@ -62,11 +62,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phamn\\Source\\Repos\\learnWPF\\LearnWPF_Advanced\\LearnWPF_Advanced.csproj",
+      "projectUniqueName": "C:\\Users\\phamn\\source\\repos\\learnWPF\\LearnWPF_Advanced\\LearnWPF_Advanced.csproj",
       "projectName": "LearnWPF_Advanced",
-      "projectPath": "C:\\Users\\phamn\\Source\\Repos\\learnWPF\\LearnWPF_Advanced\\LearnWPF_Advanced.csproj",
+      "projectPath": "C:\\Users\\phamn\\source\\repos\\learnWPF\\LearnWPF_Advanced\\LearnWPF_Advanced.csproj",
       "packagesPath": "C:\\Users\\phamn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phamn\\Source\\Repos\\learnWPF\\LearnWPF_Advanced\\obj\\",
+      "outputPath": "C:\\Users\\phamn\\source\\repos\\learnWPF\\LearnWPF_Advanced\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phamn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -115,7 +115,7 @@
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           },
-          "Microsoft.WindowsDesktop.App.WPF": {
+          "Microsoft.WindowsDesktop.App": {
             "privateAssets": "none"
           }
         },

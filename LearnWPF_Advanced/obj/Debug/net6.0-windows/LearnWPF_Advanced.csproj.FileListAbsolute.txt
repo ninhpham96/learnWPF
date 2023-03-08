@@ -75,4 +75,4 @@ C:\Users\phamn\Source\Repos\learnWPF\LearnWPF_Advanced\obj\Debug\net6.0-windows\
 C:\Users\phamn\Source\Repos\learnWPF\LearnWPF_Advanced\obj\Debug\net6.0-windows\LearnWPF_Advanced.pdb
 C:\Users\phamn\Source\Repos\learnWPF\LearnWPF_Advanced\obj\Debug\net6.0-windows\LearnWPF_Advanced.genruntimeconfig.cache
 C:\Users\phamn\Source\Repos\learnWPF\LearnWPF_Advanced\obj\Debug\net6.0-windows\ref\LearnWPF_Advanced.dll
-C:\Users\phamn\Source\Repos\learnWPF\LearnWPF_Advanced\bin\Debug\net6.0-windows\Images\folder.png
+C:\Users\phamn\source\repos\learnWPF\LearnWPF_Advanced\bin\Debug\net6.0-windows\images\folder.png
